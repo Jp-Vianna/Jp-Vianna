@@ -1,6 +1,11 @@
-  Olá, me chamo João Pedro, tenho 20 anos e estou utilizando o GitHub para guardar alguns projetos realizados para estudo.
-  No momento meu interesse pessoal envolve criação de sistemas e análise de dados.
-  Estou focando em estudar estruturas de dados, Python e em busca de um estágio a fim de pôr em prática tudo o que eu venho aprendendo nos últimos 2 anos.
-  Você pode me contatar pelo meu e-mail, jpnardyvianna@gmail.com.
+## Olá, me chamo João Pedro.
+
+<div>
+  <a href="https://github.com/Jp-Vianna">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-Vianna&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
+<p>Estou focando em estudar programação com Python e análise de dados.</p>
+<p>Você pode me contatar pelo meu e-mail, <a href="jpnardyvianna@gmail.com">jpnardyvianna@gmail.com.</a></p>
 
 
