@@ -1,6 +1,7 @@
 ## Olá, me chamo João Pedro.
 
 <p>Estou focando em estudar programação com Python.</p>
+<p>Também já estudei Java.</p>
 
 
 <div>
