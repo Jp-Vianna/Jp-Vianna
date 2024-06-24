@@ -10,6 +10,6 @@
 </div>
 
 
-<p>Você pode me contatar pelo meu e-mail, <a href="jpnardyvianna@gmail.com">jpnardyvianna@gmail.com.</a></p>
+<p>Você pode me contatar pelo meu e-mail, jpnardyvianna@gmail.com.</p>
 
 
